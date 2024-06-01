@@ -1,6 +1,6 @@
 
-![Screenshot (293)](https://github.com/youssef665/AI-ML-projects/assets/110295462/51d809d3-d018-4653-a591-9908bcc36eba)
-![Screenshot (292)](https://github.com/youssef665/AI-ML-projects/assets/110295462/ac0e2bd0-b015-4ad3-b256-a2fd538368e6)
+![Screenshot (293)](https://github.com/youssef665/AI-ML-projects/assets/110295462/51d809d3-d018-4653-a591-9908bcc36eba)<br>
+![Screenshot (292)](https://github.com/youssef665/AI-ML-projects/assets/110295462/ac0e2bd0-b015-4ad3-b256-a2fd538368e6)<br>
 
 The project involves the following key steps and components:
 
