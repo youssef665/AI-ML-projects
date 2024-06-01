@@ -14,12 +14,12 @@ Cosine Similarity Calculation:<br>
 
 The vectorized song data is then analyzed using cosine similarity. Cosine similarity measures the similarity between two non-zero vectors of an inner product space by measuring the cosine of the angle between them. This method is particularly effective for text data, as it provides a robust metric for determining the similarity between songs based on their lyrical content.<br>
 Libraries and Tools Used:<br>
-Numpy: For numerical operations and handling arrays.
-Pandas: For data manipulation and analysis.
-SpaCy: For preprocessing text data, including tokenization, lemmatization, and stop word removal.
-SentenceTransformer: For converting song lyrics into numerical vectors.
+Numpy: For numerical operations and handling arrays.<br>
+Pandas: For data manipulation and analysis.<br>
+SpaCy: For preprocessing text data, including tokenization, lemmatization, and stop word removal.<br>
+SentenceTransformer: For converting song lyrics into numerical vectors.<br>
 Scikit-learn: Specifically, the cosine_similarity function to compute similarity scores.
-OS: For handling file operations.
+OS: For handling file operations.<br>
 By following these steps, the project is able to predict song similarity, which can be used for various applications such as music recommendation systems, playlist generation, and music analysis.<br>
 
 This project demonstrates an effective approach to quantifying song similarity using machine learning and natural language processing techniques, making it possible to recommend songs that are similar in their lyrical content.
