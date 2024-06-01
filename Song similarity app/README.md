@@ -4,13 +4,13 @@
 
 The project involves the following key steps and components:
 
-Data Preprocessing:<br>
+## Data Preprocessing:<br>
 
 The song data is cleaned and prepared using SpaCy, a powerful NLP library. SpaCy is used to perform tasks such as tokenization, lemmatization, and removal of stop words. This step ensures the text data is in a suitable format for analysis and free from any noise that could affect the accuracy of the similarity predictions.<br>
-Vectorization:<br>
+## Vectorization:<br>
 
 The cleaned song data is converted into numerical vectors using the SentenceTransformer model. This model transforms text-based features of songs into a numerical format that can be quantitatively analyzed.<br>
-Cosine Similarity Calculation:<br>
+## Cosine Similarity Calculation:<br>
 
 The vectorized song data is then analyzed using cosine similarity. Cosine similarity measures the similarity between two non-zero vectors of an inner product space by measuring the cosine of the angle between them. This method is particularly effective for text data, as it provides a robust metric for determining the similarity between songs based on their lyrical content.<br>
 Libraries and Tools Used:<br>
