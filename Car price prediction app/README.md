@@ -10,9 +10,9 @@ The project involves the following key steps and components:<br>
 The car data is preprocessed to ensure it is suitable for training the models. This involves handling missing values, encoding categorical variables, and scaling numerical features.<br>
 
 ## Models Used
-### Linear SVR: A Support Vector Regression model with a linear kernel.<br>
-### Decision Tree Regressor: A decision tree-based model for regression tasks.<br>
-### Gradient Boosting Regressor: An ensemble model that builds multiple decision trees and combines their predictions for better accuracy.<br>
+ Linear SVR: A Support Vector Regression model with a linear kernel.<br>
+ Decision Tree Regressor: A decision tree-based model for regression tasks.<br>
+ Gradient Boosting Regressor: An ensemble model that builds multiple decision trees and combines their predictions for better accuracy.<br>
 ### Training and Evaluation
 Cross-Validation: Used to ensure the model's robustness and to prevent overfitting.<br>
 Grid Search: Performed to find the optimal hyperparameters for the models.<br>
