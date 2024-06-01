@@ -15,26 +15,25 @@ The traffic sign images are preprocessed to ensure they are suitable for trainin
 
 ### Models Used
 
-Artificial Neural Network (ANN): Achieved an accuracy of 95%.
-Convolutional Neural Network (CNN): Achieved an accuracy of 99%.
-Training and Evaluation
-Cross-Validation: Used to ensure the model's robustness and to prevent overfitting.
-Confusion Matrix: Generated to evaluate the performance of the models and to visualize the classification results.
-Loss and Accuracy Plots: Created to monitor the training process and to compare the performance of ANN and CNN.
+Artificial Neural Network (ANN): Achieved an accuracy of 95%.<br>
+Convolutional Neural Network (CNN): Achieved an accuracy of 99%.<br>
+### Training and Evaluation
+Cross-Validation: Used to ensure the model's robustness and to prevent overfitting.<br>
+Confusion Matrix: Generated to evaluate the performance of the models and to visualize the classification results.<br>
+Loss and Accuracy Plots: Created to monitor the training process and to compare the performance of ANN and CNN.<br>
 
 ### Libraries and Tools Used<br>
-TensorFlow: For building and training the neural network models.
-Keras: A high-level API for TensorFlow to simplify model creation.
-NumPy: For numerical operations and handling arrays.
-Matplotlib: For plotting graphs and visualizing data.
-OS: For handling file operations.
-CV2: For image processing tasks.
-PIL: For additional image processing.
-Scikit-learn: For preprocessing, model evaluation, and cross-validation.
-Warnings: To suppress unnecessary warnings during execution.
-Code Imports
-The following libraries and tools were used in the project:
+TensorFlow: For building and training the neural network models.<br>
+Keras: A high-level API for TensorFlow to simplify model creation.<br>
+NumPy: For numerical operations and handling arrays.<br>
+Matplotlib: For plotting graphs and visualizing data.<br>
+OS: For handling file operations.<br>
+CV2: For image processing tasks.<br>
+PIL: For additional image processing.<br>
+Scikit-learn: For preprocessing, model evaluation, and cross-validation.<br>
+Warnings: To suppress unnecessary warnings during execution.<br>
 
-By following these steps, the project demonstrates an effective approach to recognizing traffic signs using deep learning techniques. The comparison between ANN and CNN highlights the superior performance of CNN in image classification tasks.
+
+By following these steps, the project demonstrates an effective approach to recognizing traffic signs using deep learning techniques. The comparison between ANN and CNN highlights the superior performance of CNN in image classification tasks.<br>
 
 This project showcases the application of machine learning and image processing techniques to solve a real-world problem, achieving high accuracy and providing valuable insights into the performance of different neural network architectures.
