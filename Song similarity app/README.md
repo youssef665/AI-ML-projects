@@ -21,6 +21,6 @@ SentenceTransformer: For converting song lyrics into numerical vectors.<br>
 Scikit-learn: Specifically, the cosine_similarity function to compute similarity scores.
 OS: For handling file operations.<br>
 
-By following these steps, the project is able to predict song similarity, which can be used for various applications such as music recommendation systems, playlist generation, and music analysis.<br>
+By following these steps, the project is able to predict song similarity.
 
 This project demonstrates an effective approach to quantifying song similarity using machine learning and natural language processing techniques, making it possible to recommend songs that are similar in their lyrical content.
