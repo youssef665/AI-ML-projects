@@ -13,7 +13,7 @@ The cleaned song data is converted into numerical vectors using the SentenceTran
 ## Cosine Similarity Calculation:<br>
 
 The vectorized song data is then analyzed using cosine similarity. Cosine similarity measures the similarity between two non-zero vectors of an inner product space by measuring the cosine of the angle between them. This method is particularly effective for text data, as it provides a robust metric for determining the similarity between songs based on their lyrical content.<br>
-Libraries and Tools Used:<br>
+## Libraries and Tools Used:<br>
 Numpy: For numerical operations and handling arrays.<br>
 Pandas: For data manipulation and analysis.<br>
 SpaCy: For preprocessing text data, including tokenization, lemmatization, and stop word removal.<br>
